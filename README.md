@@ -699,13 +699,13 @@ firewall zones to define the trust level of network connections or interfaces. !
 
 ### Fedora 
 
--[What is Fedora](https://en.wikipedia.org/wiki/Fedora_(operating_system))
--[Official Website](https://getfedora.org/es/)
--[Documentation](https://docs.fedoraproject.org/)
--[FAQ](https://ask.fedoraproject.org/en/questions/)
--[Tips and tricks (unofficial)](https://www.if-not-true-then-false.com/?s=fedora)
--[5 Reasons to use Fedora](http://www.makeuseof.com/tag/5-reasons-use-pure-open-source-distro-fedora/)
--[How to install Fedora 26](https://www.if-not-true-then-false.com/2017/fedora-26-netinstall-server-install-guide/)
+- [What is Fedora](https://en.wikipedia.org/wiki/Fedora_(operating_system))
+- [Official Website](https://getfedora.org/es/)
+- [Documentation](https://docs.fedoraproject.org/)
+- [FAQ](https://ask.fedoraproject.org/en/questions/)
+- [Tips and tricks (unofficial)](https://www.if-not-true-then-false.com/?s=fedora)
+- [5 Reasons to use Fedora](http://www.makeuseof.com/tag/5-reasons-use-pure-open-source-distro-fedora/)
+- [How to install Fedora 26](https://www.if-not-true-then-false.com/2017/fedora-26-netinstall-server-install-guide/)
 
 ### openSUSE
 
